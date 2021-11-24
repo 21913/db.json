@@ -1,269 +1,248 @@
-[
-    
-   "concerts":[
-    
-    {
-        "title": "ABBA Forever ",
-        "genre": "Musical",
-        "categories": "Broadway, Musicals, Dance.",
-        "audience": "Recommended for ages 12 and up.",
-        "duration": "2 hours and 30 minutes, including one intermission.",
-        "runningTimes": {
+{
+    "concerts": [
+        {
+            "title": "ABBA Forever ",
+            "genre": "Musical",
+            "categories": "Broadway, Musicals, Dance.",
+            "audience": "Recommended for ages 12 and up.",
+            "duration": "2 hours and 30 minutes, including one intermission.",
+            "runningTimes": {
                 "tue": [
-                "15:45",
-                "17:35",
-                "19:45"
-            ],
-            "wed": [
-                "18:35",
-                "20:55"
-            ],
-           
-            "fri": [
-                "14:30",
-                "16:00",
-                "20:10"
-            ],
-            "sat": [
-                "18:50",
-                "21:10"
-            ],
-         }
-    },
-    {
-        "title": "The Lion King",
-        "genre": "Musical",
-        "categories": "Broadway, Musicals, Dance, Award Winning, Kid-Friendly.",
-        "audience": "Recommended for ages 6 and up. Children under the age of 5 will not be admitted. All guests must have a ticket.",
-        "duration": "2 hours and 30 minutes, including one intermission.",
-        "runningTimes": {
-            "mon": [
-                "16:50",
-                "18:40",
-                "20:30"                
-            ],
-            
-            
-            "thu": [
-                "16:55",
-                "19:10"
-            ],
-            "fri": [
-                "16:00",
-                "20:10"
-            ],
-           
-            "sun": [
-                "14:30",
-                "18:40"
-            ]
-        }
-    },
-    {
-        "title": "Wicked",
-        "genre": "Comedy",
-        "categories": "Broadway, Musicals, Award Winning, Kid-Friendly, Bestsellers",
-        "audience": "Recommended for children ages 8 and up. Children under the age of 5 are not permitted. Everyone must have a ticket.",
-        "duration": "2 hours and 45 minutes, including one intermission.",
-        "runningTimes": {
-            "mon": [
-                "18:40",
-                "20:30"                
-            ],
-            "tue": [
-                "15:45",
-                "17:35",
-               
-            ],
+                    "15:45",
+                    "17:35",
+                    "19:45"
+                ],
+                "wed": [
+                    "18:35",
+                    "20:55"
+                ],
+                "fri": [
+                    "14:30",
+                    "16:00",
+                    "20:10"
+                ],
+                "sat": [
+                    "18:50",
+                    "21:10"
+                ]
+            }
+        },
+        {
+            "title": "The Lion King",
+            "genre": "Musical",
+            "categories": "Broadway, Musicals, Dance, Award Winning, Kid-Friendly.",
+            "audience": "Recommended for ages 6 and up. Children under the age of 5 will not be admitted. All guests must have a ticket.",
+            "duration": "2 hours and 30 minutes, including one intermission.",
+            "runningTimes": {
+                "mon": [
+                    "16:50",
+                    "18:40",
+                    "20:30"
+                ],
                 "thu": [
-                "16:55",
-                "19:10"
-            ],
-            "fri": [
-                "14:30",
-                "16:00",
-                "20:10"
-            ],
-            "sat": [
-                "18:50",
-                "21:10"
-            ],
-            "sun": [
-                "14:30",
-                "16:50",
-              
-            ]
+                    "16:55",
+                    "19:10"
+                ],
+                "fri": [
+                    "16:00",
+                    "20:10"
+                ],
+                "sun": [
+                    "14:30",
+                    "18:40"
+                ]
+            }
+        },
+        {
+            "title": "Wicked",
+            "genre": "Comedy",
+            "categories": "Broadway, Musicals, Award Winning, Kid-Friendly, Bestsellers",
+            "audience": "Recommended for children ages 8 and up. Children under the age of 5 are not permitted. Everyone must have a ticket.",
+            "duration": "2 hours and 45 minutes, including one intermission.",
+            "runningTimes": {
+                "mon": [
+                    "18:40",
+                    "20:30"
+                ],
+                "tue": [
+                    "15:45",
+                    "17:35"
+                ],
+                "thu": [
+                    "16:55",
+                    "19:10"
+                ],
+                "fri": [
+                    "14:30",
+                    "16:00",
+                    "20:10"
+                ],
+                "sat": [
+                    "18:50",
+                    "21:10"
+                ],
+                "sun": [
+                    "14:30",
+                    "16:50"
+                ]
+            }
+        },
+        {
+            "title": "Girl from the North Country",
+            "genre": "Drama",
+            "categories": "Broadway, Musicals.",
+            "audience": "Recommended for ages 12 and up.",
+            "duration": "2 hours and 30 minutes, including one intermission.",
+            "runningTimes": {
+                "mon": [
+                    "16:50",
+                    "18:40",
+                    "20:30"
+                ],
+                "tue": [
+                    "19:45"
+                ],
+                "wed": [
+                    "18:35",
+                    "20:55"
+                ],
+                "thu": [
+                    "19:10"
+                ],
+                "fri": [
+                    "14:30",
+                    "20:10"
+                ],
+                "sat": [
+                    "18:50",
+                    "21:10"
+                ],
+                "sun": [
+                    "14:30",
+                    "18:40"
+                ]
+            }
+        },
+        {
+            "title": "Plaza Suite",
+            "genre": "Comedy",
+            "categories": "Broadway, Plays, Stars on Stage.",
+            "audience": "Recommended for ages 13 and up.",
+            "duration": "2 hours and 30 minutes, including one intermission.",
+            "runningTimes": {
+                "mon": [
+                    "16:50",
+                    "20:30"
+                ],
+                "tue": [
+                    "15:45",
+                    "19:45"
+                ],
+                "wed": [
+                    "18:35",
+                    "20:55"
+                ],
+                "thu": [
+                    "16:55",
+                    "19:10"
+                ],
+                "fri": [
+                    "14:30",
+                    "20:10"
+                ],
+                "sun": [
+                    "14:30",
+                    "16:50",
+                    "18:40"
+                ]
+            }
+        },
+        {
+            "title": "Harry Potter and the Cursed Child",
+            "genre": "Adventure",
+            "categories": "Broadway, Award Winning, Plays",
+            "audience": "Recommended for ages 12 and up.",
+            "duration": "Tentatively 3 hours 30 minutes (with one intermission).",
+            "runningTimes": {
+                "mon": [
+                    "16:50",
+                    "18:40",
+                    "20:30"
+                ],
+                "tue": [
+                    "15:45",
+                    "17:35",
+                    "19:45"
+                ],
+                "wed": [
+                    "18:35",
+                    "20:55"
+                ],
+                "thu": [
+                    "16:55",
+                    "19:10"
+                ]
+            }
+        },
+        {
+            "title": "Trouble In Mind",
+            "genre": "Drama",
+            "categories": "Broadway, Play.",
+            "audience": "Recommended for ages 12 and up.",
+            "duration": "2 hours and 10 minutes, including one intermission.",
+            "runningTimes": {
+                "mon": [
+                    "16:50",
+                    "18:40"
+                ],
+                "tue": [
+                    "15:45",
+                    "17:35"
+                ],
+                "wed": [
+                    "18:35",
+                    "20:55"
+                ],
+                "thu": [
+                    "16:55",
+                    "19:10"
+                ],
+                "fri": [
+                    "14:30",
+                    "16:00"
+                ],
+                "sat": [
+                    "18:50",
+                    "21:10"
+                ]
+            }
+        },
+        {
+            "title": "Chicken and Biscuits",
+            "genre": "Comedy",
+            "categories": "Broadway, Play.",
+            "audience": "Recommended for ages 14 and up.",
+            "duration": "90 minutes, including one intermission.",
+            "runningTimes": {
+                "thu": [
+                    "16:55",
+                    "19:10"
+                ],
+                "fri": [
+                    "14:30",
+                    "16:00",
+                    "20:10"
+                ],
+                "sat": [
+                    "18:50",
+                    "21:10"
+                ],
+                "sun": [
+                    "14:30",
+                    "16:50",
+                    "18:40"
+                ]
+            }
         }
-    },
-    {
-        "title": "Girl from the North Country",
-        "genre": "Drama",
-        "categories": "Broadway, Musicals.",
-        "audience": "Recommended for ages 12 and up.",
-        "duration": "2 hours and 30 minutes, including one intermission.",
-        "runningTimes": {
-            "mon": [
-                "16:50",
-                "18:40",
-                "20:30"                
-            ],
-            "tue": [
-               
-                "19:45"
-            ],
-            "wed": [
-                "18:35",
-                "20:55"
-            ],
-            "thu": [
-                
-                "19:10"
-            ],
-            "fri": [
-                "14:30",
-               
-                "20:10"
-            ],
-            "sat": [
-                "18:50",
-                "21:10"
-            ],
-            "sun": [
-                "14:30",
-                
-                "18:40"
-            ]
-        }
-    },
-    {
-        "title": "Plaza Suite",
-        "genre": "Comedy",
-        "categories": "Broadway, Plays, Stars on Stage.",
-        "audience": "Recommended for ages 13 and up.",
-        "duration": "2 hours and 30 minutes, including one intermission.",
-        "runningTimes": {
-            "mon": [
-                "16:50",
-              
-                "20:30"                
-            ],
-            "tue": [
-                "15:45",
-             
-                "19:45"
-            ],
-            "wed": [
-                "18:35",
-                "20:55"
-            ],
-            "thu": [
-                "16:55",
-                "19:10"
-            ],
-            "fri": [
-                "14:30",
-               
-                "20:10"
-            ],
-            
-            "sun": [
-                "14:30",
-                "16:50",
-                "18:40"
-            ]
-        }
-    },
-    {
-        "title": "Harry Potter and the Cursed Child",
-        "genre": "Adventure",
-        "categories": "Broadway, Award Winning, Plays",
-        "audience": "Recommended for ages 12 and up.",
-        "duration": "Tentatively 3 hours 30 minutes (with one intermission).",
-        "runningTimes": {
-            "mon": [
-                "16:50",
-                "18:40",
-                "20:30"                
-            ],
-            "tue": [
-                "15:45",
-                "17:35",
-                "19:45"
-            ],
-            "wed": [
-                "18:35",
-                "20:55"
-            ],
-            "thu": [
-                "16:55",
-                "19:10"
-            ],
-        }
-    },
-    {
-        "title": "Trouble In Mind",
-        "genre": "Drama",
-        "categories": "Broadway, Play.",
-        "audience": "Recommended for ages 12 and up.",
-        "duration": "2 hours and 10 minutes, including one intermission.",
-        "runningTimes": {
-            "mon": [
-                "16:50",
-                "18:40",
-                     
-            ],
-            "tue": [
-                "15:45",
-                "17:35",
-               
-            ],
-            "wed": [
-                "18:35",
-                "20:55"
-            ],
-            "thu": [
-                "16:55",
-                "19:10"
-            ],
-            "fri": [
-                "14:30",
-                "16:00",
-               
-            ],
-            "sat": [
-                "18:50",
-                "21:10"
-            ],
-           
-        }
-    },
-    {
-        "title": "Chicken and Biscuits",
-        "genre": "Comedy",
-        "categories": "Broadway, Play.",
-        "audience": "Recommended for ages 14 and up.",
-        "duration": "90 minutes, including one intermission.",
-        "runningTimes": {
-           
-            "thu": [
-                "16:55",
-                "19:10"
-            ],
-            "fri": [
-                "14:30",
-                "16:00",
-                "20:10"
-            ],
-            "sat": [
-                "18:50",
-                "21:10"
-            ],
-            "sun": [
-                "14:30",
-                "16:50",
-                "18:40"
-            ]
-        }
-    },
     ]
-]
+}
